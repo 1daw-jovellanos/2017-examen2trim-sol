@@ -2,10 +2,10 @@
 dependency1.from=Ejercicio4
 dependency1.to=Accionista
 dependency1.type=UsesDependency
-editor.fx.0.height=0
-editor.fx.0.width=0
-editor.fx.0.x=0
-editor.fx.0.y=0
+editor.fx.0.height=709
+editor.fx.0.width=816
+editor.fx.0.x=298
+editor.fx.0.y=153
 objectbench.height=215
 objectbench.width=451
 package.divider.horizontal=0.599476439790576
